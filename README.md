@@ -22,6 +22,6 @@ The frontend is developed using HTML, CSS, and JavaScript, providing a simple an
   3. Flask: Loads the trained pickle model,Processes input data,Returns predicted house price
   4. Frontend displays the predicted price dynamically.
 ## Tech Stack
-Frontend: HTML,CSS,JavaScript
-Backend: Python, Flask
-Machine Learning & Data Processing: Pandas, Numpy,Matplotlib,Scikit-learn,Pickle,JSON
+ Frontend: HTML,CSS,JavaScript
+ Backend: Python, Flask
+ Machine Learning & Data Processing: Pandas, Numpy,Matplotlib,Scikit-learn,Pickle,JSON
