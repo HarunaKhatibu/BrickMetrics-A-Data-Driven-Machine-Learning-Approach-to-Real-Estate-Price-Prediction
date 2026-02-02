@@ -25,16 +25,3 @@ The frontend is developed using HTML, CSS, and JavaScript, providing a simple an
 Frontend: HTML,CSS,JavaScript
 Backend: Python, Flask
 Machine Learning & Data Processing: Pandas, Numpy,Matplotlib,Scikit-learn,Pickle,JSON
-## Project Structure
-
-├── model/
-│   ├── bangalore_home_prices_model.pickle
-│   └── columns.json
-├── server.py (Flask backend)
-├── templates/
-│   └── index.html
-├── static/
-│   ├── style.css
-│   └── script.js
-├── Project1.ipynb (Model training notebook)
-└── README.md
